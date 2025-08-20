@@ -10,12 +10,6 @@ Welcome to my personal portfolio repository! This website showcases my skills, p
 
 ---
 
-## 📸 Preview
-"C:\Users\Shalima\OneDrive\Pictures\Screenshots\Screenshot 2025-08-11 153200.png"
-
-
----
-
 ## 📂 About This Project
 
 This portfolio is built using modern web technologies and responsive design principles to ensure a seamless user experience across devices.
