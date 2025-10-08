@@ -1,15 +1,14 @@
-#  Mathin Shaik – Developer Portfolio
+ Mathin Shaik – Developer Portfolio
 
 Welcome to my personal portfolio repository! This website showcases my skills, projects, and background as an aspiring **Software Engineer** with a B.Tech in **Artificial Intelligence & Data Science**.
 
 
-##  Live Website
+  Live Website
 
  Visit here: [https://v0-portfolio-for-fresher.vercel.app](https://v0-portfolio-for-fresher.vercel.app)
 
----
 
-##  About This Project
+ About This Project
 
 This portfolio is built using modern web technologies and responsive design principles to ensure a seamless user experience across devices.
 
@@ -20,9 +19,8 @@ This portfolio is built using modern web technologies and responsive design prin
 -  Resume Download
 -  Contact Information
 
----
 
-##  Technologies Used
+  Technologies Used
 
 - **Next.js** – React-based framework for fast frontend
 - **Tailwind CSS** – Utility-first CSS framework for styling
@@ -32,15 +30,14 @@ This portfolio is built using modern web technologies and responsive design prin
 
 ---
 
-##  About Me
+  About Me
 
  Final-year B.Tech student in *Artificial Intelligence and Data Science*  
  Passionate about building full-stack web apps, solving problems, and continuous learning  
  Aiming for a Software Engineer role at a top tech company  
 
----
 
-##  Skills
+  Skills
 
 | Frontend       | Backend        | Database    | Tools & Other      |
 |----------------|----------------|-------------|--------------------|
@@ -48,18 +45,15 @@ This portfolio is built using modern web technologies and responsive design prin
 | React / Next.js| REST APIs      | SQL         | Postman, Vercel    |
 | Tailwind CSS   |                |             | VS Code, Replit    |
 
----
 
-##  Featured Projects
+ Featured Projects
 
 | Name           | Tech Stack             | Live Link                             |
 |----------------|------------------------|----------------------------------------|
 | **MA Fashions** E-Commerce Website | HTML, CSS, JS | [GitHub Repo](https://github.com/Mathin04/E-COMMERCE-) |
 | **Portfolio Site** | Next.js, Tailwind CSS | [Live Site](https://v0-portfolio-for-fresher.vercel.app) |
 
----
-
-##  Contact Me
+  Contact Me
 
 Feel free to connect with me via:
 
@@ -69,9 +63,7 @@ Feel free to connect with me via:
 -  **LinkedIn**: [linkedin.com/in/mathin-shaik](https://www.linkedin.com/in/mathin-shaik)  
 -  **GitHub**: [github.com/Mathin04](https://github.com/Mathin04)
 
----
-
-##  Run Locally
+  Run Locally
 
 ```bash
 git clone https://github.com/Mathin04/MY-PORTFOLIO.git
