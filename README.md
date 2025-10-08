@@ -28,7 +28,8 @@ This portfolio is built using modern web technologies and responsive design prin
 - **HTML & CSS**
 - **Vercel** – For deployment and hosting
 
----
+ Screenshot
+ ![profile](https://github.com/Mathin04/MY-PORTFOLIO/blob/main/public/images/Screenshot%20(57).png)
 
   About Me
 
